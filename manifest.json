@@ -1,0 +1,35 @@
+{
+  "name": "ListaPWA",
+  "short_name": "Lista",
+  "theme_color": "#242424",
+  "background_color": "#242424",
+  "display": "standalone",
+  "start_url": "index.html",
+  "icons": [
+    {
+      "src": "img/logo72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "img/logo128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "img/logo256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "img/logo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "img/logo640.png",
+      "sizes": "640x640",
+      "type": "image/png"
+    }
+  ]
+}
